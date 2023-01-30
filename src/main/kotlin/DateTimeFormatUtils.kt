@@ -3,7 +3,7 @@ import kotlinx.datetime.*
 object DateTimeFormatUtils {
 
     private val now by lazy { Clock.System.now() }
-    private val systemTz by lazy { TimeZone.currentSystemDefault() }
+    val systemTone by lazy { TimeZone.currentSystemDefault() }
 
     fun Int.convertDoubleDigit(): String {
         return if (this < 10) String.format("%02d", this) else this.toString()
@@ -14,7 +14,7 @@ object DateTimeFormatUtils {
     }
 
     fun Long.toLocalDateTime(): LocalDateTime {
-        return this.toInstant().toLocalDateTime(systemTz)
+        return this.toInstant().toLocalDateTime(systemTone)
     }
 
     fun Long.toInstant(): Instant {
@@ -55,13 +55,13 @@ object DateTimeFormatUtils {
 
     private fun getTimeFormat(millisUntilFinished: Long): String {
         val givenTime = Instant.fromEpochSeconds(millisUntilFinished)
-            .toLocalDateTime(systemTz)
+            .toLocalDateTime(systemTone)
         return "${givenTime.dayOfMonth.convertDoubleDigit()}.${givenTime.monthNumber.convertDoubleDigit()}"
     }
 
     private fun getMonthFormat(month: Long): String {
         val givenTime =
-            Instant.fromEpochSeconds(month).toLocalDateTime(systemTz)
+            Instant.fromEpochSeconds(month).toLocalDateTime(systemTone)
         return "${givenTime.month.name.subSequence(0, 3)} ${givenTime.year}"
     }
 
@@ -187,5 +187,19 @@ object DateTimeFormatUtils {
 
     fun getUtcOffsetMins(timeZone: TimeZone = systemTimeZone): Int {
         return timeZone.offsetAt(now).totalSeconds.div(60)
+    }
+    fun getGreetingContent(): String {
+        val humanTime = now.epochSeconds.toLocalDateTime()
+        return when (humanTime.hour) {
+            in 0 until 5 -> "Good Evening"
+            in 5 until 12 -> "Good Morning"
+            in 12 until 17 -> "Good Afternoon"
+            in 17 until 23 -> "Good Evening"
+            else -> ""
+        }
+    }
+
+    fun check(): Int {
+        return DatePeriod(1).years
     }
 }

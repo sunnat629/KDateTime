@@ -1,0 +1,3795 @@
+[
+  {
+    "countryCode": "AD",
+    "name": "Andorra",
+    "dialCode": "+376",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ad.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Andorra",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AE",
+    "name": "United Arab Emirates",
+    "dialCode": "+971",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ae.svg",
+    "currency": "AED",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Dubai",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AF",
+    "name": "Afghanistan",
+    "dialCode": "+93",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/af.svg",
+    "currency": "AFN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Kabul",
+        "gtmOffset": "UTC +04:30"
+      }
+    ]
+  },
+  {
+    "countryCode": "AG",
+    "name": "Antigua and Barbuda",
+    "dialCode": "+1-268",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ag.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Antigua",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AI",
+    "name": "Anguilla",
+    "dialCode": "+1-264",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ai.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Anguilla",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AL",
+    "name": "Albania",
+    "dialCode": "+355",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/al.svg",
+    "currency": "ALL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Tirane",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AM",
+    "name": "Armenia",
+    "dialCode": "+374",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/am.svg",
+    "currency": "AMD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Yerevan",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AN",
+    "name": "Netherlands Antilles",
+    "dialCode": "+599",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/an.svg",
+    "currency": "ANG",
+    "countryTimeZone": []
+  },
+  {
+    "countryCode": "AO",
+    "name": "Angola",
+    "dialCode": "+244",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ao.svg",
+    "currency": "AOA",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Luanda",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AQ",
+    "name": "Antarctica",
+    "dialCode": "+672",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/aq.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Antarctica/Casey",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Antarctica/Davis",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Antarctica/DumontDUrville",
+        "gtmOffset": "UTC +10:00"
+      },
+      {
+        "timeZone": "Antarctica/Mawson",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Antarctica/McMurdo",
+        "gtmOffset": "UTC +13:00"
+      },
+      {
+        "timeZone": "Antarctica/Palmer",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "Antarctica/Rothera",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "Antarctica/Syowa",
+        "gtmOffset": "UTC +03:00"
+      },
+      {
+        "timeZone": "Antarctica/Troll",
+        "gtmOffset": "UTC"
+      },
+      {
+        "timeZone": "Antarctica/Vostok",
+        "gtmOffset": "UTC +06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AR",
+    "name": "Argentina",
+    "dialCode": "+54",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ar.svg",
+    "currency": "ARS",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Argentina/Buenos_Aires",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Catamarca",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Cordoba",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Jujuy",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/La_Rioja",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Mendoza",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Rio_Gallegos",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Salta",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/San_Juan",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/San_Luis",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Tucuman",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Argentina/Ushuaia",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AS",
+    "name": "American Samoa",
+    "dialCode": "+1-684",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/as.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Pago_Pago",
+        "gtmOffset": "UTC -11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AT",
+    "name": "Austria",
+    "dialCode": "+43",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/at.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Vienna",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AU",
+    "name": "Australia",
+    "dialCode": "+61",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/au.svg",
+    "currency": "AUD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Antarctica/Macquarie",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Australia/Adelaide",
+        "gtmOffset": "UTC +10:30"
+      },
+      {
+        "timeZone": "Australia/Brisbane",
+        "gtmOffset": "UTC +10:00"
+      },
+      {
+        "timeZone": "Australia/Broken_Hill",
+        "gtmOffset": "UTC +10:30"
+      },
+      {
+        "timeZone": "Australia/Darwin",
+        "gtmOffset": "UTC +09:30"
+      },
+      {
+        "timeZone": "Australia/Eucla",
+        "gtmOffset": "UTC +08:45"
+      },
+      {
+        "timeZone": "Australia/Hobart",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Australia/Lindeman",
+        "gtmOffset": "UTC +10:00"
+      },
+      {
+        "timeZone": "Australia/Lord_Howe",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Australia/Melbourne",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Australia/Perth",
+        "gtmOffset": "UTC +08:00"
+      },
+      {
+        "timeZone": "Australia/Sydney",
+        "gtmOffset": "UTC +11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AW",
+    "name": "Aruba",
+    "dialCode": "+297",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/aw.svg",
+    "currency": "AWG",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Aruba",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "AZ",
+    "name": "Azerbaijan",
+    "dialCode": "+994",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/az.svg",
+    "currency": "AZN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Baku",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BA",
+    "name": "Bosnia and Herzegovina",
+    "dialCode": "+387",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ba.svg",
+    "currency": "BAM",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Sarajevo",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BB",
+    "name": "Barbados",
+    "dialCode": "+1-246",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bb.svg",
+    "currency": "BBD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Barbados",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BD",
+    "name": "Bangladesh",
+    "dialCode": "+880",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bd.svg",
+    "currency": "BDT",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Dhaka",
+        "gtmOffset": "UTC +06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BE",
+    "name": "Belgium",
+    "dialCode": "+32",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/be.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Brussels",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BF",
+    "name": "Burkina Faso",
+    "dialCode": "+226",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bf.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Ouagadougou",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "BG",
+    "name": "Bulgaria",
+    "dialCode": "+359",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bg.svg",
+    "currency": "BGN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Sofia",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BH",
+    "name": "Bahrain",
+    "dialCode": "+973",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bh.svg",
+    "currency": "BHD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Bahrain",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BI",
+    "name": "Burundi",
+    "dialCode": "+257",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bi.svg",
+    "currency": "BIF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Bujumbura",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BJ",
+    "name": "Benin",
+    "dialCode": "+229",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bj.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Porto-Novo",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BL",
+    "name": "Saint Barthelemy",
+    "dialCode": "+590",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bl.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/St_Barthelemy",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BM",
+    "name": "Bermuda",
+    "dialCode": "+1-441",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bm.svg",
+    "currency": "BMD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/Bermuda",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BN",
+    "name": "Brunei",
+    "dialCode": "+673",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bn.svg",
+    "currency": "BND",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Brunei",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BO",
+    "name": "Bolivia",
+    "dialCode": "+591",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bo.svg",
+    "currency": "BOB",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/La_Paz",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BR",
+    "name": "Brazil",
+    "dialCode": "+55",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/br.svg",
+    "currency": "BRL",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Araguaina",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Bahia",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Belem",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Boa_Vista",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Campo_Grande",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Cuiaba",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Eirunepe",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Fortaleza",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Maceio",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Manaus",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Noronha",
+        "gtmOffset": "UTC -02:00"
+      },
+      {
+        "timeZone": "America/Porto_Velho",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Recife",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Rio_Branco",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Santarem",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Sao_Paulo",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BS",
+    "name": "Bahamas",
+    "dialCode": "+1-242",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bs.svg",
+    "currency": "BSD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Nassau",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BT",
+    "name": "Bhutan",
+    "dialCode": "+975",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bt.svg",
+    "currency": "BTN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Thimphu",
+        "gtmOffset": "UTC +06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BW",
+    "name": "Botswana",
+    "dialCode": "+267",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bw.svg",
+    "currency": "BWP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Gaborone",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BY",
+    "name": "Belarus",
+    "dialCode": "+375",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/by.svg",
+    "currency": "BYR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Minsk",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "BZ",
+    "name": "Belize",
+    "dialCode": "+501",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/bz.svg",
+    "currency": "BZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Belize",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CA",
+    "name": "Canada",
+    "dialCode": "+1",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ca.svg",
+    "currency": "CAD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Atikokan",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Blanc-Sablon",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Cambridge_Bay",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Creston",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Dawson",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Dawson_Creek",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Edmonton",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Fort_Nelson",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Glace_Bay",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Goose_Bay",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Halifax",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Inuvik",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Iqaluit",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Moncton",
+        "gtmOffset": "UTC -04:00"
+      },
+      {
+        "timeZone": "America/Rankin_Inlet",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Regina",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Resolute",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/St_Johns",
+        "gtmOffset": "UTC -03:30"
+      },
+      {
+        "timeZone": "America/Swift_Current",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Toronto",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Vancouver",
+        "gtmOffset": "UTC -08:00"
+      },
+      {
+        "timeZone": "America/Whitehorse",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Winnipeg",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Yellowknife",
+        "gtmOffset": "UTC -07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CC",
+    "name": "Cocos Islands",
+    "dialCode": "+61",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cc.svg",
+    "currency": "AUD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Cocos",
+        "gtmOffset": "UTC +06:30"
+      }
+    ]
+  },
+  {
+    "countryCode": "CD",
+    "name": "Democratic Republic of the Congo",
+    "dialCode": "+243",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cd.svg",
+    "currency": "CDF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Kinshasa",
+        "gtmOffset": "UTC +01:00"
+      },
+      {
+        "timeZone": "Africa/Lubumbashi",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CF",
+    "name": "Central African Republic",
+    "dialCode": "+236",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cf.svg",
+    "currency": "XAF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Bangui",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CG",
+    "name": "Republic of the Congo",
+    "dialCode": "+242",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cg.svg",
+    "currency": "XAF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Brazzaville",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CH",
+    "name": "Switzerland",
+    "dialCode": "+41",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ch.svg",
+    "currency": "CHF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Zurich",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CI",
+    "name": "Ivory Coast",
+    "dialCode": "+225",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ci.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Abidjan",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "CK",
+    "name": "Cook Islands",
+    "dialCode": "+682",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ck.svg",
+    "currency": "NZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Rarotonga",
+        "gtmOffset": "UTC -10:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CL",
+    "name": "Chile",
+    "dialCode": "+56",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cl.svg",
+    "currency": "CLP",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Punta_Arenas",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Santiago",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "Pacific/Easter",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CM",
+    "name": "Cameroon",
+    "dialCode": "+237",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cm.svg",
+    "currency": "XAF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Douala",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CN",
+    "name": "China",
+    "dialCode": "+86",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cn.svg",
+    "currency": "CNY",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Shanghai",
+        "gtmOffset": "UTC +08:00"
+      },
+      {
+        "timeZone": "Asia/Urumqi",
+        "gtmOffset": "UTC +06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CO",
+    "name": "Colombia",
+    "dialCode": "+57",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/co.svg",
+    "currency": "COP",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Bogota",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CR",
+    "name": "Costa Rica",
+    "dialCode": "+506",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cr.svg",
+    "currency": "CRC",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Costa_Rica",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CU",
+    "name": "Cuba",
+    "dialCode": "+53",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cu.svg",
+    "currency": "CUP",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Havana",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CV",
+    "name": "Cape Verde",
+    "dialCode": "+238",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cv.svg",
+    "currency": "CVE",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/Cape_Verde",
+        "gtmOffset": "UTC -01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CW",
+    "name": "Curacao",
+    "dialCode": "+599",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cw.svg",
+    "currency": "ANG",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Curacao",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CX",
+    "name": "Christmas Island",
+    "dialCode": "+61",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cx.svg",
+    "currency": "AUD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Christmas",
+        "gtmOffset": "UTC +07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CY",
+    "name": "Cyprus",
+    "dialCode": "+357",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cy.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Famagusta",
+        "gtmOffset": "UTC +02:00"
+      },
+      {
+        "timeZone": "Asia/Nicosia",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "CZ",
+    "name": "Czech Republic",
+    "dialCode": "+420",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/cz.svg",
+    "currency": "CZK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Prague",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "DE",
+    "name": "Germany",
+    "dialCode": "+49",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/de.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Berlin",
+        "gtmOffset": "UTC +01:00"
+      },
+      {
+        "timeZone": "Europe/Busingen",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "DJ",
+    "name": "Djibouti",
+    "dialCode": "+253",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/dj.svg",
+    "currency": "DJF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Djibouti",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "DK",
+    "name": "Denmark",
+    "dialCode": "+45",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/dk.svg",
+    "currency": "DKK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Copenhagen",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "DM",
+    "name": "Dominica",
+    "dialCode": "+1-767",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/dm.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Dominica",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "DO",
+    "name": "Dominican Republic",
+    "dialCode": "+1-809, +1-829, +1-849",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/do.svg",
+    "currency": "DOP",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Santo_Domingo",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "DZ",
+    "name": "Algeria",
+    "dialCode": "+213",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/dz.svg",
+    "currency": "DZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Algiers",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "EC",
+    "name": "Ecuador",
+    "dialCode": "+593",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ec.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Guayaquil",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "Pacific/Galapagos",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "EE",
+    "name": "Estonia",
+    "dialCode": "+372",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ee.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Tallinn",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "EG",
+    "name": "Egypt",
+    "dialCode": "+20",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/eg.svg",
+    "currency": "EGP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Cairo",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "EH",
+    "name": "Western Sahara",
+    "dialCode": "+212",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/eh.svg",
+    "currency": "MAD",
+    "countryTimeZone": []
+  },
+  {
+    "countryCode": "ER",
+    "name": "Eritrea",
+    "dialCode": "+291",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/er.svg",
+    "currency": "ERN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Asmara",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ES",
+    "name": "Spain",
+    "dialCode": "+34",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/es.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Ceuta",
+        "gtmOffset": "UTC +01:00"
+      },
+      {
+        "timeZone": "Atlantic/Canary",
+        "gtmOffset": "UTC"
+      },
+      {
+        "timeZone": "Europe/Madrid",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ET",
+    "name": "Ethiopia",
+    "dialCode": "+251",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/et.svg",
+    "currency": "ETB",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Addis_Ababa",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "FI",
+    "name": "Finland",
+    "dialCode": "+358",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/fi.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Helsinki",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "FJ",
+    "name": "Fiji",
+    "dialCode": "+679",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/fj.svg",
+    "currency": "FJD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Fiji",
+        "gtmOffset": "UTC +12:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "FK",
+    "name": "Falkland Islands",
+    "dialCode": "+500",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/fk.svg",
+    "currency": "FKP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/Stanley",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "FM",
+    "name": "Micronesia",
+    "dialCode": "+691",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/fm.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Chuuk",
+        "gtmOffset": "UTC +10:00"
+      },
+      {
+        "timeZone": "Pacific/Kosrae",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Pacific/Pohnpei",
+        "gtmOffset": "UTC +11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "FO",
+    "name": "Faroe Islands",
+    "dialCode": "+298",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/fo.svg",
+    "currency": "DKK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/Faroe",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "FR",
+    "name": "France",
+    "dialCode": "+33",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/fr.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Paris",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GA",
+    "name": "Gabon",
+    "dialCode": "+241",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ga.svg",
+    "currency": "XAF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Libreville",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GB",
+    "name": "United Kingdom",
+    "dialCode": "+44",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gb.svg",
+    "currency": "GBP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/London",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "GD",
+    "name": "Grenada",
+    "dialCode": "+1-473",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gd.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Grenada",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GE",
+    "name": "Georgia",
+    "dialCode": "+995",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ge.svg",
+    "currency": "GEL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Tbilisi",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GG",
+    "name": "Guernsey",
+    "dialCode": "+44-1481",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gg.svg",
+    "currency": "GGP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Guernsey",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "GH",
+    "name": "Ghana",
+    "dialCode": "+233",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gh.svg",
+    "currency": "GHS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Accra",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "GI",
+    "name": "Gibraltar",
+    "dialCode": "+350",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gi.svg",
+    "currency": "GIP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Gibraltar",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GL",
+    "name": "Greenland",
+    "dialCode": "+299",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gl.svg",
+    "currency": "DKK",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Danmarkshavn",
+        "gtmOffset": "UTC"
+      },
+      {
+        "timeZone": "America/Nuuk",
+        "gtmOffset": "UTC -03:00"
+      },
+      {
+        "timeZone": "America/Scoresbysund",
+        "gtmOffset": "UTC -01:00"
+      },
+      {
+        "timeZone": "America/Thule",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GM",
+    "name": "Gambia",
+    "dialCode": "+220",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gm.svg",
+    "currency": "GMD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Banjul",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "GN",
+    "name": "Guinea",
+    "dialCode": "+224",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gn.svg",
+    "currency": "GNF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Conakry",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "GQ",
+    "name": "Equatorial Guinea",
+    "dialCode": "+240",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gq.svg",
+    "currency": "XAF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Malabo",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GR",
+    "name": "Greece",
+    "dialCode": "+30",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gr.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Athens",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GT",
+    "name": "Guatemala",
+    "dialCode": "+502",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gt.svg",
+    "currency": "GTQ",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Guatemala",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GU",
+    "name": "Guam",
+    "dialCode": "+1-671",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gu.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Guam",
+        "gtmOffset": "UTC +10:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "GW",
+    "name": "Guinea-Bissau",
+    "dialCode": "+245",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gw.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Bissau",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "GY",
+    "name": "Guyana",
+    "dialCode": "+592",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/gy.svg",
+    "currency": "GYD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Guyana",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "HK",
+    "name": "Hong Kong",
+    "dialCode": "+852",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/hk.svg",
+    "currency": "HKD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Hong_Kong",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "HN",
+    "name": "Honduras",
+    "dialCode": "+504",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/hn.svg",
+    "currency": "HNL",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Tegucigalpa",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "HR",
+    "name": "Croatia",
+    "dialCode": "+385",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/hr.svg",
+    "currency": "HRK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Zagreb",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "HT",
+    "name": "Haiti",
+    "dialCode": "+509",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ht.svg",
+    "currency": "HTG",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Port-au-Prince",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "HU",
+    "name": "Hungary",
+    "dialCode": "+36",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/hu.svg",
+    "currency": "HUF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Budapest",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ID",
+    "name": "Indonesia",
+    "dialCode": "+62",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/id.svg",
+    "currency": "IDR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Jakarta",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Jayapura",
+        "gtmOffset": "UTC +09:00"
+      },
+      {
+        "timeZone": "Asia/Makassar",
+        "gtmOffset": "UTC +08:00"
+      },
+      {
+        "timeZone": "Asia/Pontianak",
+        "gtmOffset": "UTC +07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "IE",
+    "name": "Ireland",
+    "dialCode": "+353",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ie.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Dublin",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "IL",
+    "name": "Israel",
+    "dialCode": "+972",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/il.svg",
+    "currency": "ILS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Jerusalem",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "IM",
+    "name": "Isle of Man",
+    "dialCode": "+44-1624",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/im.svg",
+    "currency": "GBP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Isle_of_Man",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "IN",
+    "name": "India",
+    "dialCode": "+91",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/in.svg",
+    "currency": "INR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Kolkata",
+        "gtmOffset": "UTC +05:30"
+      }
+    ]
+  },
+  {
+    "countryCode": "IO",
+    "name": "British Indian Ocean Territory",
+    "dialCode": "+246",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/io.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Chagos",
+        "gtmOffset": "UTC +06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "IQ",
+    "name": "Iraq",
+    "dialCode": "+964",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/iq.svg",
+    "currency": "IQD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Baghdad",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "IR",
+    "name": "Iran",
+    "dialCode": "+98",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ir.svg",
+    "currency": "IRR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Tehran",
+        "gtmOffset": "UTC +03:30"
+      }
+    ]
+  },
+  {
+    "countryCode": "IS",
+    "name": "Iceland",
+    "dialCode": "+354",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/is.svg",
+    "currency": "ISK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/Reykjavik",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "IT",
+    "name": "Italy",
+    "dialCode": "+39",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/it.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Rome",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "JE",
+    "name": "Jersey",
+    "dialCode": "+44-1534",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/je.svg",
+    "currency": "JEP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Jersey",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "JM",
+    "name": "Jamaica",
+    "dialCode": "+1-876",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/jm.svg",
+    "currency": "JMD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Jamaica",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "JO",
+    "name": "Jordan",
+    "dialCode": "+962",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/jo.svg",
+    "currency": "JOD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Amman",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "JP",
+    "name": "Japan",
+    "dialCode": "+81",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/jp.svg",
+    "currency": "JPY",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Tokyo",
+        "gtmOffset": "UTC +09:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KE",
+    "name": "Kenya",
+    "dialCode": "+254",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ke.svg",
+    "currency": "KES",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Nairobi",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KG",
+    "name": "Kyrgyzstan",
+    "dialCode": "+996",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kg.svg",
+    "currency": "KGS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Bishkek",
+        "gtmOffset": "UTC +06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KH",
+    "name": "Cambodia",
+    "dialCode": "+855",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kh.svg",
+    "currency": "KHR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Phnom_Penh",
+        "gtmOffset": "UTC +07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KI",
+    "name": "Kiribati",
+    "dialCode": "+686",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ki.svg",
+    "currency": "AUD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Kanton",
+        "gtmOffset": "UTC +13:00"
+      },
+      {
+        "timeZone": "Pacific/Kiritimati",
+        "gtmOffset": "UTC +14:00"
+      },
+      {
+        "timeZone": "Pacific/Tarawa",
+        "gtmOffset": "UTC +12:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KM",
+    "name": "Comoros",
+    "dialCode": "+269",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/km.svg",
+    "currency": "KMF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Comoro",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KN",
+    "name": "Saint Kitts and Nevis",
+    "dialCode": "+1-869",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kn.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/St_Kitts",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KP",
+    "name": "North Korea",
+    "dialCode": "+850",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kp.svg",
+    "currency": "KPW",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Pyongyang",
+        "gtmOffset": "UTC +09:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KR",
+    "name": "South Korea",
+    "dialCode": "+82",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kr.svg",
+    "currency": "KRW",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Seoul",
+        "gtmOffset": "UTC +09:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KW",
+    "name": "Kuwait",
+    "dialCode": "+965",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kw.svg",
+    "currency": "KWD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Kuwait",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KY",
+    "name": "Cayman Islands",
+    "dialCode": "+1-345",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ky.svg",
+    "currency": "KYD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Cayman",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "KZ",
+    "name": "Kazakhstan",
+    "dialCode": "+7",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/kz.svg",
+    "currency": "KZT",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Almaty",
+        "gtmOffset": "UTC +06:00"
+      },
+      {
+        "timeZone": "Asia/Aqtau",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Asia/Aqtobe",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Asia/Atyrau",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Asia/Oral",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Asia/Qostanay",
+        "gtmOffset": "UTC +06:00"
+      },
+      {
+        "timeZone": "Asia/Qyzylorda",
+        "gtmOffset": "UTC +05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LA",
+    "name": "Laos",
+    "dialCode": "+856",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/la.svg",
+    "currency": "LAK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Vientiane",
+        "gtmOffset": "UTC +07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LB",
+    "name": "Lebanon",
+    "dialCode": "+961",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lb.svg",
+    "currency": "LBP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Beirut",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LC",
+    "name": "Saint Lucia",
+    "dialCode": "+1-758",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lc.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/St_Lucia",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LI",
+    "name": "Liechtenstein",
+    "dialCode": "+423",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/li.svg",
+    "currency": "CHF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Vaduz",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LK",
+    "name": "Sri Lanka",
+    "dialCode": "+94",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lk.svg",
+    "currency": "LKR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Colombo",
+        "gtmOffset": "UTC +05:30"
+      }
+    ]
+  },
+  {
+    "countryCode": "LR",
+    "name": "Liberia",
+    "dialCode": "+231",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lr.svg",
+    "currency": "LRD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Monrovia",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "LS",
+    "name": "Lesotho",
+    "dialCode": "+266",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ls.svg",
+    "currency": "LSL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Maseru",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LT",
+    "name": "Lithuania",
+    "dialCode": "+370",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lt.svg",
+    "currency": "LTL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Vilnius",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LU",
+    "name": "Luxembourg",
+    "dialCode": "+352",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lu.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Luxembourg",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LV",
+    "name": "Latvia",
+    "dialCode": "+371",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/lv.svg",
+    "currency": "LVL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Riga",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "LY",
+    "name": "Libya",
+    "dialCode": "+218",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ly.svg",
+    "currency": "LYD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Tripoli",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MA",
+    "name": "Morocco",
+    "dialCode": "+212",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ma.svg",
+    "currency": "MAD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Casablanca",
+        "gtmOffset": "UTC +01:00"
+      },
+      {
+        "timeZone": "Africa/El_Aaiun",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MC",
+    "name": "Monaco",
+    "dialCode": "+377",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mc.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Monaco",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MD",
+    "name": "Moldova",
+    "dialCode": "+373",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/md.svg",
+    "currency": "MDL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Chisinau",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ME",
+    "name": "Montenegro",
+    "dialCode": "+382",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/me.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Podgorica",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MF",
+    "name": "Saint Martin",
+    "dialCode": "+590",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mf.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Marigot",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MG",
+    "name": "Madagascar",
+    "dialCode": "+261",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mg.svg",
+    "currency": "MGA",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Antananarivo",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MH",
+    "name": "Marshall Islands",
+    "dialCode": "+692",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mh.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Kwajalein",
+        "gtmOffset": "UTC +12:00"
+      },
+      {
+        "timeZone": "Pacific/Majuro",
+        "gtmOffset": "UTC +12:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MK",
+    "name": "Macedonia",
+    "dialCode": "+389",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mk.svg",
+    "currency": "MKD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Skopje",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ML",
+    "name": "Mali",
+    "dialCode": "+223",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ml.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Bamako",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "MM",
+    "name": "Myanmar",
+    "dialCode": "+95",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mm.svg",
+    "currency": "MMK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Yangon",
+        "gtmOffset": "UTC +06:30"
+      }
+    ]
+  },
+  {
+    "countryCode": "MN",
+    "name": "Mongolia",
+    "dialCode": "+976",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mn.svg",
+    "currency": "MNT",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Choibalsan",
+        "gtmOffset": "UTC +08:00"
+      },
+      {
+        "timeZone": "Asia/Hovd",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Ulaanbaatar",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MO",
+    "name": "Macao",
+    "dialCode": "+853",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mo.svg",
+    "currency": "MOP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Macau",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MP",
+    "name": "Northern Mariana Islands",
+    "dialCode": "+1-670",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mp.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Saipan",
+        "gtmOffset": "UTC +10:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MR",
+    "name": "Mauritania",
+    "dialCode": "+222",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mr.svg",
+    "currency": "MRO",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Nouakchott",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "MS",
+    "name": "Montserrat",
+    "dialCode": "+1-664",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ms.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Montserrat",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MT",
+    "name": "Malta",
+    "dialCode": "+356",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mt.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Malta",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MU",
+    "name": "Mauritius",
+    "dialCode": "+230",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mu.svg",
+    "currency": "MUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Mauritius",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MV",
+    "name": "Maldives",
+    "dialCode": "+960",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mv.svg",
+    "currency": "MVR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Maldives",
+        "gtmOffset": "UTC +05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MW",
+    "name": "Malawi",
+    "dialCode": "+265",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mw.svg",
+    "currency": "MWK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Blantyre",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MX",
+    "name": "Mexico",
+    "dialCode": "+52",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mx.svg",
+    "currency": "MXN",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Bahia_Banderas",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Cancun",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Chihuahua",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Ciudad_Juarez",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Hermosillo",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Matamoros",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Mazatlan",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Merida",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Mexico_City",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Monterrey",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Ojinaga",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Tijuana",
+        "gtmOffset": "UTC -08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MY",
+    "name": "Malaysia",
+    "dialCode": "+60",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/my.svg",
+    "currency": "MYR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Kuala_Lumpur",
+        "gtmOffset": "UTC +08:00"
+      },
+      {
+        "timeZone": "Asia/Kuching",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "MZ",
+    "name": "Mozambique",
+    "dialCode": "+258",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/mz.svg",
+    "currency": "MZN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Maputo",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NA",
+    "name": "Namibia",
+    "dialCode": "+264",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/na.svg",
+    "currency": "NAD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Windhoek",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NC",
+    "name": "New Caledonia",
+    "dialCode": "+687",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/nc.svg",
+    "currency": "XPF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Noumea",
+        "gtmOffset": "UTC +11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NE",
+    "name": "Niger",
+    "dialCode": "+227",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ne.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Niamey",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NG",
+    "name": "Nigeria",
+    "dialCode": "+234",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ng.svg",
+    "currency": "NGN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Lagos",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NI",
+    "name": "Nicaragua",
+    "dialCode": "+505",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ni.svg",
+    "currency": "NIO",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Managua",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NL",
+    "name": "Netherlands",
+    "dialCode": "+31",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/nl.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Amsterdam",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NO",
+    "name": "Norway",
+    "dialCode": "+47",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/no.svg",
+    "currency": "NOK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Oslo",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NP",
+    "name": "Nepal",
+    "dialCode": "+977",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/np.svg",
+    "currency": "NPR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Kathmandu",
+        "gtmOffset": "UTC +05:45"
+      }
+    ]
+  },
+  {
+    "countryCode": "NR",
+    "name": "Nauru",
+    "dialCode": "+674",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/nr.svg",
+    "currency": "AUD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Nauru",
+        "gtmOffset": "UTC +12:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NU",
+    "name": "Niue",
+    "dialCode": "+683",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/nu.svg",
+    "currency": "NZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Niue",
+        "gtmOffset": "UTC -11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "NZ",
+    "name": "New Zealand",
+    "dialCode": "+64",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/nz.svg",
+    "currency": "NZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Auckland",
+        "gtmOffset": "UTC +13:00"
+      },
+      {
+        "timeZone": "Pacific/Chatham",
+        "gtmOffset": "UTC +13:45"
+      }
+    ]
+  },
+  {
+    "countryCode": "OM",
+    "name": "Oman",
+    "dialCode": "+968",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/om.svg",
+    "currency": "OMR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Muscat",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PA",
+    "name": "Panama",
+    "dialCode": "+507",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pa.svg",
+    "currency": "PAB",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Panama",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PE",
+    "name": "Peru",
+    "dialCode": "+51",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pe.svg",
+    "currency": "PEN",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Lima",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PF",
+    "name": "French Polynesia",
+    "dialCode": "+689",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pf.svg",
+    "currency": "XPF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Gambier",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "Pacific/Marquesas",
+        "gtmOffset": "UTC -09:30"
+      },
+      {
+        "timeZone": "Pacific/Tahiti",
+        "gtmOffset": "UTC -10:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PG",
+    "name": "Papua New Guinea",
+    "dialCode": "+675",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pg.svg",
+    "currency": "PGK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Bougainville",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Pacific/Port_Moresby",
+        "gtmOffset": "UTC +10:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PH",
+    "name": "Philippines",
+    "dialCode": "+63",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ph.svg",
+    "currency": "PHP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Manila",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PK",
+    "name": "Pakistan",
+    "dialCode": "+92",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pk.svg",
+    "currency": "PKR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Karachi",
+        "gtmOffset": "UTC +05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PL",
+    "name": "Poland",
+    "dialCode": "+48",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pl.svg",
+    "currency": "PLN",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Warsaw",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "dialCode": "+508",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pm.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Miquelon",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PN",
+    "name": "Pitcairn",
+    "dialCode": "+64",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pn.svg",
+    "currency": "NZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Pitcairn",
+        "gtmOffset": "UTC -08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PR",
+    "name": "Puerto Rico",
+    "dialCode": "+1-787, +1-939",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pr.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Puerto_Rico",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PS",
+    "name": "Palestinian",
+    "dialCode": "+970",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ps.svg",
+    "currency": "ILS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Gaza",
+        "gtmOffset": "UTC +02:00"
+      },
+      {
+        "timeZone": "Asia/Hebron",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PT",
+    "name": "Portugal",
+    "dialCode": "+351",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pt.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/Azores",
+        "gtmOffset": "UTC -01:00"
+      },
+      {
+        "timeZone": "Atlantic/Madeira",
+        "gtmOffset": "UTC"
+      },
+      {
+        "timeZone": "Europe/Lisbon",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "PW",
+    "name": "Palau",
+    "dialCode": "+680",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/pw.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Palau",
+        "gtmOffset": "UTC +09:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "PY",
+    "name": "Paraguay",
+    "dialCode": "+595",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/py.svg",
+    "currency": "PYG",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Asuncion",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "QA",
+    "name": "Qatar",
+    "dialCode": "+974",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/qa.svg",
+    "currency": "QAR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Qatar",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "RE",
+    "name": "Reunion",
+    "dialCode": "+262",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/re.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Reunion",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "RO",
+    "name": "Romania",
+    "dialCode": "+40",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ro.svg",
+    "currency": "RON",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Bucharest",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "RS",
+    "name": "Serbia",
+    "dialCode": "+381",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/rs.svg",
+    "currency": "RSD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Belgrade",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "RU",
+    "name": "Russia",
+    "dialCode": "+7",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ru.svg",
+    "currency": "RUB",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Anadyr",
+        "gtmOffset": "UTC +12:00"
+      },
+      {
+        "timeZone": "Asia/Barnaul",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Chita",
+        "gtmOffset": "UTC +09:00"
+      },
+      {
+        "timeZone": "Asia/Irkutsk",
+        "gtmOffset": "UTC +08:00"
+      },
+      {
+        "timeZone": "Asia/Kamchatka",
+        "gtmOffset": "UTC +12:00"
+      },
+      {
+        "timeZone": "Asia/Khandyga",
+        "gtmOffset": "UTC +09:00"
+      },
+      {
+        "timeZone": "Asia/Krasnoyarsk",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Magadan",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Asia/Novokuznetsk",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Novosibirsk",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Omsk",
+        "gtmOffset": "UTC +06:00"
+      },
+      {
+        "timeZone": "Asia/Sakhalin",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Asia/Srednekolymsk",
+        "gtmOffset": "UTC +11:00"
+      },
+      {
+        "timeZone": "Asia/Tomsk",
+        "gtmOffset": "UTC +07:00"
+      },
+      {
+        "timeZone": "Asia/Ust-Nera",
+        "gtmOffset": "UTC +10:00"
+      },
+      {
+        "timeZone": "Asia/Vladivostok",
+        "gtmOffset": "UTC +10:00"
+      },
+      {
+        "timeZone": "Asia/Yakutsk",
+        "gtmOffset": "UTC +09:00"
+      },
+      {
+        "timeZone": "Asia/Yekaterinburg",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Europe/Astrakhan",
+        "gtmOffset": "UTC +04:00"
+      },
+      {
+        "timeZone": "Europe/Kaliningrad",
+        "gtmOffset": "UTC +02:00"
+      },
+      {
+        "timeZone": "Europe/Kirov",
+        "gtmOffset": "UTC +03:00"
+      },
+      {
+        "timeZone": "Europe/Moscow",
+        "gtmOffset": "UTC +03:00"
+      },
+      {
+        "timeZone": "Europe/Samara",
+        "gtmOffset": "UTC +04:00"
+      },
+      {
+        "timeZone": "Europe/Saratov",
+        "gtmOffset": "UTC +04:00"
+      },
+      {
+        "timeZone": "Europe/Ulyanovsk",
+        "gtmOffset": "UTC +04:00"
+      },
+      {
+        "timeZone": "Europe/Volgograd",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "RW",
+    "name": "Rwanda",
+    "dialCode": "+250",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/rw.svg",
+    "currency": "RWF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Kigali",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SA",
+    "name": "Saudi Arabia",
+    "dialCode": "+966",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sa.svg",
+    "currency": "SAR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Riyadh",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SB",
+    "name": "Solomon Islands",
+    "dialCode": "+677",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sb.svg",
+    "currency": "SBD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Guadalcanal",
+        "gtmOffset": "UTC +11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SC",
+    "name": "Seychelles",
+    "dialCode": "+248",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sc.svg",
+    "currency": "SCR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Mahe",
+        "gtmOffset": "UTC +04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SD",
+    "name": "Sudan",
+    "dialCode": "+249",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sd.svg",
+    "currency": "SDG",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Khartoum",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SE",
+    "name": "Sweden",
+    "dialCode": "+46",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/se.svg",
+    "currency": "SEK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Stockholm",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SG",
+    "name": "Singapore",
+    "dialCode": "+65",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sg.svg",
+    "currency": "SGD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Singapore",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SH",
+    "name": "Saint Helena",
+    "dialCode": "+290",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sh.svg",
+    "currency": "SHP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Atlantic/St_Helena",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "SI",
+    "name": "Slovenia",
+    "dialCode": "+386",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/si.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Ljubljana",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "dialCode": "+47",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sj.svg",
+    "currency": "NOK",
+    "countryTimeZone": [
+      {
+        "timeZone": "Arctic/Longyearbyen",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SK",
+    "name": "Slovakia",
+    "dialCode": "+421",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sk.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Bratislava",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SL",
+    "name": "Sierra Leone",
+    "dialCode": "+232",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sl.svg",
+    "currency": "SLL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Freetown",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "SM",
+    "name": "San Marino",
+    "dialCode": "+378",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sm.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/San_Marino",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SN",
+    "name": "Senegal",
+    "dialCode": "+221",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sn.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Dakar",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "SO",
+    "name": "Somalia",
+    "dialCode": "+252",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/so.svg",
+    "currency": "SOS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Mogadishu",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SR",
+    "name": "Suriname",
+    "dialCode": "+597",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sr.svg",
+    "currency": "SRD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Paramaribo",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SS",
+    "name": "South Sudan",
+    "dialCode": "+211",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ss.svg",
+    "currency": "SSP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Juba",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ST",
+    "name": "Sao Tome and Principe",
+    "dialCode": "+239",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/st.svg",
+    "currency": "STD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Sao_Tome",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "SV",
+    "name": "El Salvador",
+    "dialCode": "+503",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sv.svg",
+    "currency": "SVC",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/El_Salvador",
+        "gtmOffset": "UTC -06:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SX",
+    "name": "Sint Maarten",
+    "dialCode": "+1-721",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sx.svg",
+    "currency": "ANG",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Lower_Princes",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SY",
+    "name": "Syria",
+    "dialCode": "+963",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sy.svg",
+    "currency": "SYP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Damascus",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "SZ",
+    "name": "Swaziland",
+    "dialCode": "+268",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/sz.svg",
+    "currency": "SZL",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Mbabane",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TC",
+    "name": "Turks and Caicos Islands",
+    "dialCode": "+1-649",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tc.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Grand_Turk",
+        "gtmOffset": "UTC -05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TD",
+    "name": "Chad",
+    "dialCode": "+235",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/td.svg",
+    "currency": "XAF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Ndjamena",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TG",
+    "name": "Togo",
+    "dialCode": "+228",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tg.svg",
+    "currency": "XOF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Lome",
+        "gtmOffset": "UTC"
+      }
+    ]
+  },
+  {
+    "countryCode": "TH",
+    "name": "Thailand",
+    "dialCode": "+66",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/th.svg",
+    "currency": "THB",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Bangkok",
+        "gtmOffset": "UTC +07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TJ",
+    "name": "Tajikistan",
+    "dialCode": "+992",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tj.svg",
+    "currency": "TJS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Dushanbe",
+        "gtmOffset": "UTC +05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TK",
+    "name": "Tokelau",
+    "dialCode": "+690",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tk.svg",
+    "currency": "NZD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Fakaofo",
+        "gtmOffset": "UTC +13:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TL",
+    "name": "East Timor",
+    "dialCode": "+670",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tl.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Dili",
+        "gtmOffset": "UTC +09:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TM",
+    "name": "Turkmenistan",
+    "dialCode": "+993",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tm.svg",
+    "currency": "TMT",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Ashgabat",
+        "gtmOffset": "UTC +05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TN",
+    "name": "Tunisia",
+    "dialCode": "+216",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tn.svg",
+    "currency": "TND",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Tunis",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TO",
+    "name": "Tonga",
+    "dialCode": "+676",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/to.svg",
+    "currency": "TOP",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Tongatapu",
+        "gtmOffset": "UTC +13:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TR",
+    "name": "Turkey",
+    "dialCode": "+90",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tr.svg",
+    "currency": "TRY",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Istanbul",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TT",
+    "name": "Trinidad and Tobago",
+    "dialCode": "+1-868",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tt.svg",
+    "currency": "TTD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Port_of_Spain",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TV",
+    "name": "Tuvalu",
+    "dialCode": "+688",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tv.svg",
+    "currency": "AUD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Funafuti",
+        "gtmOffset": "UTC +12:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TW",
+    "name": "Taiwan",
+    "dialCode": "+886",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tw.svg",
+    "currency": "TWD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Taipei",
+        "gtmOffset": "UTC +08:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "TZ",
+    "name": "Tanzania",
+    "dialCode": "+255",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/tz.svg",
+    "currency": "TZS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Dar_es_Salaam",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "UA",
+    "name": "Ukraine",
+    "dialCode": "+380",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ua.svg",
+    "currency": "UAH",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Kyiv",
+        "gtmOffset": "UTC +02:00"
+      },
+      {
+        "timeZone": "Europe/Simferopol",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "UG",
+    "name": "Uganda",
+    "dialCode": "+256",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ug.svg",
+    "currency": "UGX",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Kampala",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "US",
+    "name": "United States",
+    "dialCode": "+1",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/us.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Adak",
+        "gtmOffset": "UTC -10:00"
+      },
+      {
+        "timeZone": "America/Anchorage",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "America/Boise",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Chicago",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Denver",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Detroit",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Indiana/Indianapolis",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Indiana/Knox",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Indiana/Marengo",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Indiana/Petersburg",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Indiana/Tell_City",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Indiana/Vevay",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Indiana/Vincennes",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Indiana/Winamac",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Juneau",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "America/Kentucky/Louisville",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Kentucky/Monticello",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Los_Angeles",
+        "gtmOffset": "UTC -08:00"
+      },
+      {
+        "timeZone": "America/Menominee",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Metlakatla",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "America/New_York",
+        "gtmOffset": "UTC -05:00"
+      },
+      {
+        "timeZone": "America/Nome",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "America/North_Dakota/Beulah",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/North_Dakota/Center",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/North_Dakota/New_Salem",
+        "gtmOffset": "UTC -06:00"
+      },
+      {
+        "timeZone": "America/Phoenix",
+        "gtmOffset": "UTC -07:00"
+      },
+      {
+        "timeZone": "America/Sitka",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "America/Yakutat",
+        "gtmOffset": "UTC -09:00"
+      },
+      {
+        "timeZone": "Pacific/Honolulu",
+        "gtmOffset": "UTC -10:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "UY",
+    "name": "Uruguay",
+    "dialCode": "+598",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/uy.svg",
+    "currency": "UYU",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Montevideo",
+        "gtmOffset": "UTC -03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "UZ",
+    "name": "Uzbekistan",
+    "dialCode": "+998",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/uz.svg",
+    "currency": "UZS",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Samarkand",
+        "gtmOffset": "UTC +05:00"
+      },
+      {
+        "timeZone": "Asia/Tashkent",
+        "gtmOffset": "UTC +05:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VA",
+    "name": "Vatican",
+    "dialCode": "+379",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/va.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Europe/Vatican",
+        "gtmOffset": "UTC +01:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "dialCode": "+1-784",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/vc.svg",
+    "currency": "XCD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/St_Vincent",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VE",
+    "name": "Venezuela",
+    "dialCode": "+58",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ve.svg",
+    "currency": "VEF",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Caracas",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VG",
+    "name": "British Virgin Islands",
+    "dialCode": "+1-284",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/vg.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/Tortola",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VI",
+    "name": "U.S. Virgin Islands",
+    "dialCode": "+1-340",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/vi.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "America/St_Thomas",
+        "gtmOffset": "UTC -04:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VN",
+    "name": "Vietnam",
+    "dialCode": "+84",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/vn.svg",
+    "currency": "VND",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Ho_Chi_Minh",
+        "gtmOffset": "UTC +07:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "VU",
+    "name": "Vanuatu",
+    "dialCode": "+678",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/vu.svg",
+    "currency": "VUV",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Efate",
+        "gtmOffset": "UTC +11:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "WF",
+    "name": "Wallis and Futuna",
+    "dialCode": "+681",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/wf.svg",
+    "currency": "XPF",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Wallis",
+        "gtmOffset": "UTC +12:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "WS",
+    "name": "Samoa",
+    "dialCode": "+685",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ws.svg",
+    "currency": "WST",
+    "countryTimeZone": [
+      {
+        "timeZone": "Pacific/Apia",
+        "gtmOffset": "UTC +13:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "XK",
+    "name": "Kosovo",
+    "dialCode": "+383",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/xk.svg",
+    "currency": "EUR",
+    "countryTimeZone": []
+  },
+  {
+    "countryCode": "YE",
+    "name": "Yemen",
+    "dialCode": "+967",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/ye.svg",
+    "currency": "YER",
+    "countryTimeZone": [
+      {
+        "timeZone": "Asia/Aden",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "YT",
+    "name": "Mayotte",
+    "dialCode": "+262",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/yt.svg",
+    "currency": "EUR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Indian/Mayotte",
+        "gtmOffset": "UTC +03:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ZA",
+    "name": "South Africa",
+    "dialCode": "+27",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/za.svg",
+    "currency": "ZAR",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Johannesburg",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ZM",
+    "name": "Zambia",
+    "dialCode": "+260",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/zm.svg",
+    "currency": "ZMW",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Lusaka",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  },
+  {
+    "countryCode": "ZW",
+    "name": "Zimbabwe",
+    "dialCode": "+263",
+    "flag": "https://github.com/sunnat629/CountriesDetails/blob/master/flags/svg/zw.svg",
+    "currency": "USD",
+    "countryTimeZone": [
+      {
+        "timeZone": "Africa/Harare",
+        "gtmOffset": "UTC +02:00"
+      }
+    ]
+  }
+]
